@@ -2,7 +2,7 @@ fx_version 'cerulean'
 lua54 'yes'
 game 'gta5'
 
-name "samy_aimlock"
+name "samy_aimblock"
 description "Disables players from shooting while aiming close to a wall"
 author "Samy"
 original_repo "https://github.com/RodericAguilar/Roda_BlockX"
