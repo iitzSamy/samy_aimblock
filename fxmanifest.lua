@@ -6,7 +6,7 @@ name "samy_aimblock"
 description "Disables players from shooting while aiming close to a wall"
 author "Samy"
 original_repo "https://github.com/RodericAguilar/Roda_BlockX"
-version "1.0.0"
+version "1.0.1"
 
 client_scripts {
     'client.lua',
