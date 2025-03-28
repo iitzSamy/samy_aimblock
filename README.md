@@ -4,4 +4,4 @@ Based Repository: [Roda_BlockX](https://github.com/RodericAguilar/Roda_BlockX)
 
 Dependency: [ox_lib](https://github.com/overextended/ox_lib)
 
-![Cover](https://ibb.co/XrNvPPBR)
+![Cover](https://i.postimg.cc/CLc3dt5n/AimBlock.png)
