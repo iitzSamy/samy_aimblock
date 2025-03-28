@@ -1,3 +1,7 @@
-A simple and highly optimized script to prevent players from aiming from angles close to walls that offer advantages over opponents.
+# A simple and highly optimized script to prevent players from aiming from angles close to walls that offer advantages over opponents.
 
-![Image Alt](https://imgur.com/a/ObJf1J5)
+Based Repository: [Roda_BlockX](https://github.com/RodericAguilar/Roda_BlockX)  
+
+Dependency: [ox_lib](https://github.com/overextended/ox_lib)
+
+![Image Alt](https://i.imgur.com/w3Ju0Vx.png)
